@@ -1,10 +1,10 @@
 # Bash-scripts
  Set of bash scripts for different use cases
 
-# rename2directory.sh
+## rename2directory.sh
   A script to name files according to their parent folder name. 
 
-# sort-move2parent-directory.sh
+## sort-move2parent-directory.sh
 Scan a directory and sort + move + filter by name.
 1. Filters:    
     * dir name until first period
